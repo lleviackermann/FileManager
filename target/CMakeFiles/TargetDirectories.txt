@@ -1,0 +1,6 @@
+/home/levi/practice/file_manager/target/CMakeFiles/file-manager-cpp.dir
+/home/levi/practice/file_manager/target/CMakeFiles/edit_cache.dir
+/home/levi/practice/file_manager/target/CMakeFiles/rebuild_cache.dir
+/home/levi/practice/file_manager/target/test/CMakeFiles/file-manager-cpp_unit_tests.dir
+/home/levi/practice/file_manager/target/test/CMakeFiles/edit_cache.dir
+/home/levi/practice/file_manager/target/test/CMakeFiles/rebuild_cache.dir
